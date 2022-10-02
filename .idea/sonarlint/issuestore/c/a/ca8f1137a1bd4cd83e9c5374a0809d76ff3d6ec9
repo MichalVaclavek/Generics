@@ -1,0 +1,16 @@
+
+t
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ÍŸ‘üÿÿÿÿ
+n
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ßçö÷ÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(®ÂÇ‚
+c
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(ßçö÷ÿÿÿÿÿ
+o
+java:S1450)"TRemove the "boxes" field and declare it as a local variable in the relevant methods.(Ïì Õúÿÿÿÿ
+@
+java:S2157:"%Add a "clone()" method to this class.(‰ÕòÕşÿÿÿÿ
+o
+java:S1210C"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‘ÏİŠ
+>
+java:S2387K"("name" is the name of a field in "Slon".(Ê§…ñ
