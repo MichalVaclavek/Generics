@@ -130,7 +130,7 @@ public class Interval<T extends Comparable<? super T>> {
 
         log.info("I1 intersection with i2? : " + i1.intersection(i2));
 
-        log.info("**************");
+        log.info("******************************************************");
 
         CompBarva compBarva3 = new CompBarva(Barva.CERVENA);
         CompBarva2 compBarva24 = new CompBarva2(Barva.ZLUTA);
@@ -138,7 +138,7 @@ public class Interval<T extends Comparable<? super T>> {
 
         Interval<CompBarva> i3 = new Interval<>(compBarva1, compBarva2);
 
-        Interval<CompBarva2> i24 = new Interval<>(new CompBarva2(Barva.ZELENA), new CompBarva2(Barva.FIALOVA));
+        Interval<CompBarva2> i24 = new Interval<>(new CompBarva2(Barva.ORANZOVA), new CompBarva2(Barva.ZELENA));
 
         log.info("I3 contains i24? : " + i3.contains(i24));
         log.info("I24 is contained in i3? : " + i24.isContainedIn(i3));
